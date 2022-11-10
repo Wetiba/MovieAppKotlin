@@ -1,42 +1,32 @@
 # MovieApp
-The Movie DB app using Kotlin
+The Movie TBDB API
+## MVVM ARCHITECTURE
+Beacause its one of the best and mostly preferered with team work
 
 ![alt text](https://developer.android.com/topic/libraries/architecture/images/final-architecture.png)
 
 
 API https://www.themoviedb.org/documentation/api
 
-Kotlin: https://kotlinlang.org/docs/reference/
 
-Data binding: https://developer.android.com/topic/libraries/data-binding/
 
-RxJava 2, RxAndroid: https://github.com/ReactiveX/RxJava
+Data binding
 
-Coroutines: https://kotlinlang.org/docs/reference/coroutines.html
+RxJava 2, xJava
 
-Retrofit 2: https://github.com/square/retrofit
+Coroutines 
 
-Moshi: https://github.com/square/moshi
+Retrofit 2
 
-Glide: https://github.com/bumptech/glide
+Glide:
 
-Dagger-Hilt: https://developer.android.com/training/dependency-injection/hilt-android
+Dagger-Hilt: 
 
-Android X: https://developer.android.com/topic/libraries/support-library/androidx-overview
+Android X: 
 
 
 ===> Android Architecture Component
 
-Lifecycle: https://developer.android.com/topic/libraries/architecture/lifecycle
-
-View Model: https://developer.android.com/topic/libraries/architecture/viewmodel
-
-Live data: https://developer.android.com/topic/libraries/architecture/livedata.html
-
-Room: https://developer.android.com/topic/libraries/architecture/room.html
-
-Navigation: https://developer.android.com/guide/navigation
-
-Architecture: https://github.com/googlesamples/android-architecture-components
+Lifecycle,View Model,Live data Room dB,Navigation,Architecture
 
 <===
